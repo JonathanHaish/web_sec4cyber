@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a40c98b3.chunk.css",
+    "main.js": "/static/js/main.e228b40e.chunk.js",
+    "main.js.map": "/static/js/main.e228b40e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ab5f1303.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ab5f1303.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.3788251d.chunk.js": "/static/js/2.3788251d.chunk.js",
+    "static/js/2.3788251d.chunk.js.map": "/static/js/2.3788251d.chunk.js.map",
+    "static/js/3.d1fc9684.chunk.js": "/static/js/3.d1fc9684.chunk.js",
+    "static/js/3.d1fc9684.chunk.js.map": "/static/js/3.d1fc9684.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.a40c98b3.chunk.css.map": "/static/css/main.a40c98b3.chunk.css.map",
+    "static/js/2.3788251d.chunk.js.LICENSE.txt": "/static/js/2.3788251d.chunk.js.LICENSE.txt",
+    "static/media/logoNewWhite.cfdad7e2.png": "/static/media/logoNewWhite.cfdad7e2.png",
+    "static/media/index.css": "/static/media/news.a842c71c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab5f1303.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.3788251d.chunk.js",
+    "static/css/main.a40c98b3.chunk.css",
+    "static/js/main.e228b40e.chunk.js"
+  ]
+}

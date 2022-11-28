@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a229156d.chunk.css",
+    "main.js": "/static/js/main.5e3c6d97.chunk.js",
+    "main.js.map": "/static/js/main.5e3c6d97.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9339ceda.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9339ceda.js.map",
+    "static/css/2.325dfaf0.chunk.css": "/static/css/2.325dfaf0.chunk.css",
+    "static/js/2.9e2365e5.chunk.js": "/static/js/2.9e2365e5.chunk.js",
+    "static/js/2.9e2365e5.chunk.js.map": "/static/js/2.9e2365e5.chunk.js.map",
+    "static/js/3.b8bc4fb8.chunk.js": "/static/js/3.b8bc4fb8.chunk.js",
+    "static/js/3.b8bc4fb8.chunk.js.map": "/static/js/3.b8bc4fb8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.325dfaf0.chunk.css.map": "/static/css/2.325dfaf0.chunk.css.map",
+    "static/css/main.a229156d.chunk.css.map": "/static/css/main.a229156d.chunk.css.map",
+    "static/js/2.9e2365e5.chunk.js.LICENSE.txt": "/static/js/2.9e2365e5.chunk.js.LICENSE.txt",
+    "static/media/Automotive-540p.786f54b0.mp4": "/static/media/Automotive-540p.786f54b0.mp4",
+    "static/media/SGNew.24cd3bf0.jpg": "/static/media/SGNew.24cd3bf0.jpg",
+    "static/media/airplaneNew.2235cd44.jpg": "/static/media/airplaneNew.2235cd44.jpg",
+    "static/media/automotive.c3620429.mp4": "/static/media/automotive.c3620429.mp4",
+    "static/media/carNew.00481466.jpg": "/static/media/carNew.00481466.jpg",
+    "static/media/logoNewWhite.cfdad7e2.png": "/static/media/logoNewWhite.cfdad7e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9339ceda.js",
+    "static/css/2.325dfaf0.chunk.css",
+    "static/js/2.9e2365e5.chunk.js",
+    "static/css/main.a229156d.chunk.css",
+    "static/js/main.5e3c6d97.chunk.js"
+  ]
+}
