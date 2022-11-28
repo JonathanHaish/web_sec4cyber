@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7e55538.chunk.css",
+    "main.js": "/static/js/main.ac359125.chunk.js",
+    "main.js.map": "/static/js/main.ac359125.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a96230b6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a96230b6.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.8909cfbe.chunk.js": "/static/js/2.8909cfbe.chunk.js",
+    "static/js/2.8909cfbe.chunk.js.map": "/static/js/2.8909cfbe.chunk.js.map",
+    "static/js/3.63286cd5.chunk.js": "/static/js/3.63286cd5.chunk.js",
+    "static/js/3.63286cd5.chunk.js.map": "/static/js/3.63286cd5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c7e55538.chunk.css.map": "/static/css/main.c7e55538.chunk.css.map",
+    "static/js/2.8909cfbe.chunk.js.LICENSE.txt": "/static/js/2.8909cfbe.chunk.js.LICENSE.txt",
+    "static/media/Enterprise-540p.c8843371.mp4": "/static/media/Enterprise-540p.c8843371.mp4",
+    "static/media/Enterprise_Edge.c1385edf.mp4": "/static/media/Enterprise_Edge.c1385edf.mp4",
+    "static/media/Hospital-540P.aad2ea8a.mp4": "/static/media/Hospital-540P.aad2ea8a.mp4",
+    "static/media/SGNew.24cd3bf0.jpg": "/static/media/SGNew.24cd3bf0.jpg",
+    "static/media/airplaneNew.2235cd44.jpg": "/static/media/airplaneNew.2235cd44.jpg",
+    "static/media/airplaneNew.70e29b49.jpg": "/static/media/airplaneNew.70e29b49.jpg",
+    "static/media/logoNewWhite.cfdad7e2.png": "/static/media/logoNewWhite.cfdad7e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a96230b6.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8909cfbe.chunk.js",
+    "static/css/main.c7e55538.chunk.css",
+    "static/js/main.ac359125.chunk.js"
+  ]
+}
