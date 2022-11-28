@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.ImageTeam_{
+  background-image: url('/home/daniel/ReactExpress/about/src/Components/images_Picks/team.jpg');
+  background-size: 100%,100%;
+}
+
+.meet_lead_team{
+  font-family: 'Times New Roman', Times, serif;
+  color:white;
+  margin-left:15%;
+}
+
+.meet_l_t_p{
+  margin-left:15%;
+  color:white
+}
+
+.pick_jonatan_I{
+  
+  height:350px;
+  border-radius: 50%;
+}
+
+.pick_jonatan_t{
+  margin-left:4%;
+  text-shadow:3px 3px black;
+}
+
+.pic_alon_I{
+
+  border-radius: 50%;
+}
+.pic_alon_t{
+  margin-left:4%;
+  text-shadow:3px 3px black;
+}
+
+.pic_daniel_I{
+  
+  height:350px;
+  border-radius: 50%;
+}
+
+.pic_daniel_t{
+  margin-left:4%;
+  text-shadow:3px 3px black
+}
+
